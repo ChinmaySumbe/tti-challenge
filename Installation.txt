@@ -1,0 +1,7 @@
+Commands for install Laravel on VS code
+
+Check PHP.ini file and remove semicolon for "extension=zip"
+
+Install PHP
+
+composer create-project laravel/laravel project-management --no-scripts
